@@ -39,7 +39,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 **In-progress** 
 
 **Publication** 
-- J. Hu, L. Zheng, **W. Ai**, et al. "An Adaptive Power System Transient Stability Assessment Method Based on Shared Feature Extraction", in *iScience*, 2025. 
+- J. Hu, L. Zheng, **W. Ai**, et al. "An adaptive power system transient stability assessment method based on shared feature extraction", in *iScience*, 2025. 
 - A. Hu, L. Wang, X. Lin, **W. Ai**, et al. "Performance analysis of recuperated Brayton pumped thermal electricity storage with staged compressors", in *Energy*, 2025. 
 - **W. Ai**, L. Wang, X. Lin, et al. "Dynamic characteristics of pumped thermal-liquid air energy storage system: Modeling, analysis, and optimization", in *Energy*, 2024. 
 - H. Chen, ... **W. Ai**, et al. "Research progress on energy storage technologies of China in 2023", in *Energy Storage Science and Technology*, 2024. 
@@ -48,7 +48,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 - T. Zhao, **W. Ai**, H. Ma, et al. "Integral identification of fluid specific heat capacity and heat transfer coefficient distribution in heat exchangers based on multiple-case joint analysis", in *International Journal of Heat and Mass Transfer*, 2022.
 
 **Conference** 
-- **W. Ai**, J. Dowling, M. Craig. "Sector-Coupling and Infrastructure Shape the Long-Term Flexibility Landscape in Net-zero America", in 2025 INFORMS Annual Meeting, 2025.
+- **W. Ai**, J. Dowling, M. Craig. "Sector-coupling and infrastructure shape the long-term flexibility landscape in net-zero America", in 2025 INFORMS Annual Meeting, 2025.
 
 
 # 🔎 Peer Review
