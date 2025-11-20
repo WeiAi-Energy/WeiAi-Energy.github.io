@@ -24,7 +24,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 
 
 # 📖 Educations
-- *2024.08 – now*, **Ph.D. student** at **University of Michigan**, School for Environment and Sustainability and Department of Electrical & Computer Engineering
+- *2024.08 – now*, **Ph.D. student** at **University of Michigan**, School for Environment and Sustainability and Department of Electrical and Computer Engineering
 - *2021.08 – 2024.06*, **M.Sc.** at **University of the Chinese Academy of Sciences**, Institute of Engineering Thermophysics
 - *2017.08 – 2021.06*, **B.Sc.** at **Tsinghua University**, Department of Engineering Mechanics
 
