@@ -45,12 +45,14 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021-2023* Annual Scholarship, Institute of Engineering Thermophysics
+- *2022* 4D Power Scholarship (Top 5%), Institute of Engineering Thermophysics
+- *2022* Merit Student, University of Chinese Academy of Sciences
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.08 – now*, **Ph.D. student** at **University of Michigan**, School for Environment and Sustainability and Department of Electrical & Computer Engineering
+- *2021.08 – 2024.06*, **M.Sc.** at **University of the Chinese Academy of Sciences**, Institute of Engineering Thermophysics
+- *2017.08 – 2021.06*, **B.Sc.** at **Tsinghua University**, Department of Engineering Mechanics
 
 
 <!--
