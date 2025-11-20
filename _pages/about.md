@@ -24,8 +24,9 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 I presented our work titled 'Sector-Coupling and Infrastructure Shape the Long-Term Flexibility Landscape in Net-zero America' at the 2025 INFORMS Annual Meeting.
+- *2025.08*: &nbsp;🎉🎉 I was admitted to the Individual Interdepartmental Degree Program, leading to a Doctor of Philosophy in Environment & Sustainability and Electrical & Computer Engineering.
+- *2024.08*: &nbsp;🎉🎉 I enrolled in the School for Environment and Sustainability, University of Micchigan. 
 
 # 📝 Publications 
 
@@ -49,11 +50,15 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
+
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
