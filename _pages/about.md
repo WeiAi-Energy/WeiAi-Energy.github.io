@@ -28,21 +28,29 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 - *2025.08*: &nbsp;🎉🎉 I was admitted to the Individual Interdepartmental Degree Program, leading to a Doctor of Philosophy in Environment & Sustainability and Electrical & Computer Engineering.
 - *2024.08*: &nbsp;🎉🎉 I enrolled in the School for Environment and Sustainability, University of Micchigan. 
 
-# 📝 Publications 
+# 📝 Journal and Conference 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**In-progress** 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Publication** 
+- J. Hu, L. Zheng, **W. Ai**, et al. "An Adaptive Power System Transient Stability Assessment Method Based on Shared Feature Extraction", in *iScience*, 2025. 
+- A. Hu, L. Wang, X. Lin, **W. Ai**, et al. "Performance analysis of recuperated Brayton pumped thermal electricity storage with staged compressors", in *Energy*, 2025. 
+- **W. Ai**, L. Wang, X. Lin, et al. "Dynamic characteristics of pumped thermal-liquid air energy storage system: Modeling, analysis, and optimization", in *Energy*, 2024. 
+- H. Chen, ... **W. Ai**, et al. "Research progress on energy storage technologies of China in 2023", in *Energy Storage Science and Technology*, 2024. 
+- **W. Ai**, L. Wang, X. Lin, et al. "Multivariate multi-objective collaborative optimization of pumped thermal-liquid air energy storage", in *Journal of Energy Storage*, 2024. 
+- **W. Ai**, L. Wang, X. Lin, et al. "Mathematical and thermo-economic analysis of thermal insulation for thermal energy storage applications", in *Renewable Energy*, 2023. 
+- T. Zhao, **W. Ai**, H. Ma, et al. "Integral identification of fluid specific heat capacity and heat transfer coefficient distribution in heat exchangers based on multiple-case joint analysis", in *International Journal of Heat and Mass Transfer*, 2022.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Conference** 
+- **W. Ai**, J. Dowling, M. Craig. "Sector-Coupling and Infrastructure Shape the Long-Term Flexibility Landscape in Net-zero America", in 2025 INFORMS Annual Meeting, 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 🔎 Peer Review
+- Energy Conversion and Management
+- IEEE Transactions on Industrial Informatics
+- European Journal of Operational Research
+- International Journal of Electrical Power and Energy Systems
+- PLOS One
 
 # 🎖 Honors and Awards
 - *2021-2023* Annual Scholarship, Institute of Engineering Thermophysics
