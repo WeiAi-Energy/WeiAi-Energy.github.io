@@ -23,6 +23,12 @@ Hey! I'm Wei Ai, a second-year Ph.D. student in Environment & Sustainability and
 I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua University and Master's degree in Engineering Thermophysics from the University of Chinese Academy of Sciences, where I researched thermo-mechanical energy storage. Motivated by my growing interest in macro-energy systems, I came to Michigan to pursue my Ph.D. degree. Currently, I'm working on long-duration energy storage and natural gas infrastructure repurposing strategy. You can find my publication here (Google Scholar <a href='https://scholar.google.com/citations?user=s_dxcLMAAAAJ'><img src="https://img.shields.io/badge/citations-61-blue?style=flat&logo=Google%20Scholar"></a>).
 
 
+# 📖 Educations
+- *2024.08 – now*, **Ph.D. student** at **University of Michigan**, School for Environment and Sustainability and Department of Electrical & Computer Engineering
+- *2021.08 – 2024.06*, **M.Sc.** at **University of the Chinese Academy of Sciences**, Institute of Engineering Thermophysics
+- *2017.08 – 2021.06*, **B.Sc.** at **Tsinghua University**, Department of Engineering Mechanics
+
+
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 I presented our work titled 'Sector-Coupling and Infrastructure Shape the Long-Term Flexibility Landscape in Net-zero America' at the 2025 INFORMS Annual Meeting.
 - *2025.08*: &nbsp;🎉🎉 I was admitted to the Individual Interdepartmental Degree Program, leading to a Doctor of Philosophy in Environment & Sustainability and Electrical & Computer Engineering.
@@ -56,11 +62,6 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 - *2021-2023* Annual Scholarship, Institute of Engineering Thermophysics
 - *2022* 4D Power Scholarship (Top 5%), Institute of Engineering Thermophysics
 - *2022* Merit Student, University of Chinese Academy of Sciences
-
-# 📖 Educations
-- *2024.08 – now*, **Ph.D. student** at **University of Michigan**, School for Environment and Sustainability and Department of Electrical & Computer Engineering
-- *2021.08 – 2024.06*, **M.Sc.** at **University of the Chinese Academy of Sciences**, Institute of Engineering Thermophysics
-- *2017.08 – 2021.06*, **B.Sc.** at **Tsinghua University**, Department of Engineering Mechanics
 
 
 <!--
