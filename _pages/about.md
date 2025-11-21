@@ -20,7 +20,7 @@ redirect_from:
 # About Me
 Hey! I'm Wei Ai, a second-year Ph.D. student in Environment & Sustainability and Electrical & Computer Engineering at the University of Michigan, Ann Arbor. I work as a research assistant in the [ASSET Lab](https://www.assetlab.org/) led by [Prof. Michael Craig](https://seas.umich.edu/research/faculty/michael-craig) and am also co-advised by [Prof. Vladimir Dvorkin](https://web.eecs.umich.edu/~dvorkin/).
 
-I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua University and Master's degree in Engineering Thermophysics from the University of Chinese Academy of Sciences, where I researched thermo-mechanical energy storage. Motivated by my growing interest in macro-energy systems, I came to Michigan to pursue my Ph.D. degree. Currently, I'm working on long-duration energy storage and natural gas infrastructure repurposing strategy. You can find my publication here (Google Scholar <a href='https://scholar.google.com/citations?user=s_dxcLMAAAAJ'><img src="https://img.shields.io/badge/citations-62-blue?style=flat&logo=Google%20Scholar"></a>).
+I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua University and Master's degree in Engineering Thermophysics from the University of Chinese Academy of Sciences, where I researched thermo-mechanical energy storage. Motivated by my growing interest in macro-energy systems, I came to Michigan to pursue my Ph.D. degree. Currently, I'm working on long-duration energy storage and natural gas infrastructure repurposing strategy. You can find my publication here (Google Scholar <a href='https://scholar.google.com/citations?user=s_dxcLMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}"></a>).
 
 
 # 📖 Educations
