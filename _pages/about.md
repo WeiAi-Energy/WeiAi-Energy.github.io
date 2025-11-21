@@ -52,11 +52,13 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 
 
 # 🔎 Peer Review
-- Energy Conversion and Management
+- International Journal of Electrical Power and Energy Systems
 - IEEE Transactions on Industrial Informatics
 - European Journal of Operational Research
-- International Journal of Electrical Power and Energy Systems
+- Energy Conversion and Management
 - PLOS One
+- Energy
+  
 
 # 🎖 Honors and Awards
 - *2021-2023* Annual Scholarship, Institute of Engineering Thermophysics
