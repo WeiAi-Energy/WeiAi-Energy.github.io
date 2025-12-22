@@ -5,8 +5,8 @@ from datetime import datetime
 import os
 
 pg = ProxyGenerator()
-pg.ScraperAPI(os.environ['SCRAPERAPI_KEY']) # 从环境变量读取 Key
-scholarly.use_proxy(pg)
+pg.ScraperAPI(os.environ['SCRAPERAPI_KEY'])
+scholarly.use_proxy(pg, pg)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices'])
