@@ -58,6 +58,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 - IEEE Transactions on Industrial Informatics
 - European Journal of Operational Research
 - Energy Conversion and Management
+- Journal of Energy Storage
 - PLOS One
 - Energy
   
