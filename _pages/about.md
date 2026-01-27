@@ -38,7 +38,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 # 📝 Journal and Conference 
 
 **In-progress** 
-- A paper about seasonal flexibility from hydrogen
+- A paper about hydrogen-based seasonal flexibility
 
 **Publication** 
 - J. Hu, L. Zheng, **W. Ai**, et al. "An adaptive power system transient stability assessment method based on shared feature extraction", in *iScience*, 2025. 
