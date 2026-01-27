@@ -2,18 +2,21 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
+    
+  - title: "Educations"
+    url: "/#-educations"
+    
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
-
+  - title: "Journal and Conference"
+    url: "/#-journal-and-conference"
+    
+  - title: "Peer Review"
+    url: "/#-peer-review"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
