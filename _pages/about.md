@@ -38,7 +38,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 # 📝 Journal and Conference 
 
 **In-progress** 
-- A paper about hydrogen-based seasonal flexibility
+- Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility
 
 **Publication** 
 - J. Hu, L. Zheng, **W. Ai**, et al. "An adaptive power system transient stability assessment method based on shared feature extraction", in *iScience*, 2025. 
@@ -52,7 +52,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 **Conference** 
 - **W. Ai**, J. Dowling, M. Craig. "Sector-coupling and infrastructure shape the long-term flexibility landscape in net-zero America", in 2025 INFORMS Annual Meeting, 2025.
 
-
+<!--
 # 🔎 Peer Review
 - International Journal of Electrical Power and Energy Systems
 - IEEE Transactions on Industrial Informatics
@@ -61,7 +61,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 - Journal of Energy Storage
 - PLOS One
 - Energy
-  
+-->
 
 # 🎖 Honors and Awards
 - *2021-2023* Annual Scholarship, Institute of Engineering Thermophysics
