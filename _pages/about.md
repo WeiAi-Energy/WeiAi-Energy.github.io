@@ -38,16 +38,16 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 # 📝 Journal and Conference 
 
 **In-progress** 
-- Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility
+- **W. Ai**, J. Dowling, M. Craig. [Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility](https://doi.org/10.21203/rs.3.rs-8875261/v1), under review at *Nature Energy*, 2026. 
 
 **Publication** 
-- J. Hu, L. Zheng, **W. Ai**, et al. "An adaptive power system transient stability assessment method based on shared feature extraction", in *iScience*, 2025. 
-- A. Hu, L. Wang, X. Lin, **W. Ai**, et al. "Performance analysis of recuperated Brayton pumped thermal electricity storage with staged compressors", in *Energy*, 2025. 
-- **W. Ai**, L. Wang, X. Lin, et al. "Dynamic characteristics of pumped thermal-liquid air energy storage system: Modeling, analysis, and optimization", in *Energy*, 2024. 
-- H. Chen, ... **W. Ai**, et al. "Research progress on energy storage technologies of China in 2023", in *Energy Storage Science and Technology*, 2024. 
-- **W. Ai**, L. Wang, X. Lin, et al. "Multivariate multi-objective collaborative optimization of pumped thermal-liquid air energy storage", in *Journal of Energy Storage*, 2024. 
-- **W. Ai**, L. Wang, X. Lin, et al. "Mathematical and thermo-economic analysis of thermal insulation for thermal energy storage applications", in *Renewable Energy*, 2023. 
-- T. Zhao, **W. Ai**, H. Ma, et al. "Integral identification of fluid specific heat capacity and heat transfer coefficient distribution in heat exchangers based on multiple-case joint analysis", in *International Journal of Heat and Mass Transfer*, 2022.
+- J. Hu, L. Zheng, **W. Ai**, et al. [An adaptive power system transient stability assessment method based on shared feature extraction](https://doi.org/10.1016/j.isci.2025.112172), in *iScience*, 2025. 
+- A. Hu, L. Wang, X. Lin, **W. Ai**, et al. [Performance analysis of recuperated Brayton pumped thermal electricity storage with staged compressors](https://doi.org/10.1016/j.energy.2025.134539), in *Energy*, 2025. 
+- **W. Ai**, L. Wang, X. Lin, et al. [Dynamic characteristics of pumped thermal-liquid air energy storage system: Modeling, analysis, and optimization](https://doi.org/10.1016/j.energy.2024.133776), in *Energy*, 2024. 
+- H. Chen, ... **W. Ai**, et al. [Research progress on energy storage technologies of China in 2023](10.19799/j.cnki.2095-4239.2024.0441), in *Energy Storage Science and Technology*, 2024. 
+- **W. Ai**, L. Wang, X. Lin, et al. [Multivariate multi-objective collaborative optimization of pumped thermal-liquid air energy storage](https://doi.org/10.1016/j.est.2023.110257), in *Journal of Energy Storage*, 2024. 
+- **W. Ai**, L. Wang, X. Lin, et al. [Mathematical and thermo-economic analysis of thermal insulation for thermal energy storage applications](https://doi.org/10.1016/j.renene.2023.06.009), in *Renewable Energy*, 2023. 
+- T. Zhao, **W. Ai**, H. Ma, et al. [Integral identification of fluid specific heat capacity and heat transfer coefficient distribution in heat exchangers based on multiple-case joint analysis](https://doi.org/10.1016/j.ijheatmasstransfer.2021.122394), in *International Journal of Heat and Mass Transfer*, 2022.
 
 **Conference** 
 - **W. Ai**, J. Dowling, M. Craig. "Sector-coupling and infrastructure shape the long-term flexibility landscape in net-zero America", in 2025 INFORMS Annual Meeting, 2025.
