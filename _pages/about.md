@@ -38,7 +38,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 # 📝 Journal and Conference 
 
 **In-progress**
-- Enhancing grid utilization via advanced power flow controllers to address the transmission expansion challenge, working paper, 2026.
+- Economic Valuation and Strategic Deployment of Static Synchronous Series Compensators for U.S. Power System Expansion, working paper, 2026.
 - **W. Ai**, J. Dowling, M. Craig. [Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility](https://doi.org/10.21203/rs.3.rs-8875261/v1), under review at *Nature Energy*, 2026. 
 
 **Publication** 
