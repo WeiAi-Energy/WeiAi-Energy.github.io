@@ -38,8 +38,8 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 # 📝 Journal and Conference 
 
 **In-progress**
-- Economic Valuation and Strategic Deployment of Static Synchronous Series Compensators for U.S. Power System Expansion, working paper, 2026.
-- **W. Ai**, J. Dowling, M. Craig. [Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility](https://doi.org/10.21203/rs.3.rs-8875261/v1), under review at *Nature Energy*, 2026. 
+- **W. Ai**, V. Dvorkin, M. Craig. Economic Valuation and Optimal Deployment of Static Synchronous Series Compensators for U.S. Power System Expansion, 2026.
+- **W. Ai**, J. Dowling, M. Craig. [Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility](https://doi.org/10.21203/rs.3.rs-8875261/v1), 2026. 
 
 **Publication** 
 - J. Hu, L. Zheng, **W. Ai**, et al. [An adaptive power system transient stability assessment method based on shared feature extraction](https://doi.org/10.1016/j.isci.2025.112172), in *iScience*, 2025. 
