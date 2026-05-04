@@ -38,7 +38,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 # 📝 Journal and Conference 
 
 **In-progress**
-- **W. Ai**, V. Dvorkin, M. Craig. Economic Valuation and Optimal Deployment of Static Synchronous Series Compensators for U.S. Power System Expansion, 2026.
+- **W. Ai**, V. Dvorkin, M. Craig. [Economic Valuation and Optimal Deployment of Static Synchronous Series Compensators for U.S. Power System Expansion](https://arxiv.org/abs/2605.00734), 2026.
 - **W. Ai**, J. Dowling, M. Craig. [Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility](https://doi.org/10.21203/rs.3.rs-8875261/v1), 2026. 
 
 **Publication** 
