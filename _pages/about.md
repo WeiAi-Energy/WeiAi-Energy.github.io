@@ -31,6 +31,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 I advanced to Ph.D. Candidacy after successfully passing the qualifying examinations for both SEAS and ECE.
 - *2025.10*: &nbsp;🎉🎉 I presented our work titled 'Sector-Coupling and Infrastructure Shape the Long-Term Flexibility Landscape in Net-zero America' at the 2025 INFORMS Annual Meeting.
 - *2025.08*: &nbsp;🎉🎉 I was admitted to the Individual Interdepartmental Degree Program, leading to a Doctor of Philosophy in Environment & Sustainability and Electrical & Computer Engineering.
 - *2024.08*: &nbsp;🎉🎉 I enrolled in the School for Environment and Sustainability, University of Micchigan. 
