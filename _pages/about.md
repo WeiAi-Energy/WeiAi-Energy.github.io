@@ -80,4 +80,10 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=02QhzwQtv1MRCaA7QFJ1YLBKqnrVVxoXOolvJFao3zU&cl=ffffff&w=200"></script>
+<div class="visitor-map">
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="https://clustrmaps.com/map_v2.js?d=02QhzwQtv1MRCaA7QFJ1YLBKqnrVVxoXOolvJFao3zU&cl=ffffff&w=200">
+  </script>
+</div>
