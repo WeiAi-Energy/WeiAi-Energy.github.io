@@ -31,6 +31,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 I will present our work titled 'Delineating the Roles of Hydrogen-Based Flexibility Pathways' at the 2026 MES Workshop.
 - *2026.05*: &nbsp;🎉🎉 I advanced to Ph.D. Candidacy after successfully passing the qualifying examinations for both SEAS and ECE.
 - *2025.10*: &nbsp;🎉🎉 I presented our work titled 'Sector-Coupling and Infrastructure Shape the Long-Term Flexibility Landscape in Net-zero America' at the 2025 INFORMS Annual Meeting.
 - *2025.08*: &nbsp;🎉🎉 I was admitted to the Individual Interdepartmental Degree Program, leading to a Doctor of Philosophy in Environment & Sustainability and Electrical & Computer Engineering.
@@ -40,7 +41,7 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 
 **In-progress**
 - **W. Ai**, V. Dvorkin, M. Craig. [Economic Valuation and Optimal Deployment of Static Synchronous Series Compensators for U.S. Power System Expansion](https://arxiv.org/abs/2605.00734), 2026.
-- **W. Ai**, J. Dowling, M. Craig. [Resolving the Mechanism and Value of Hydrogen-Based Seasonal Flexibility](https://doi.org/10.21203/rs.3.rs-8875261/v1), 2026. 
+- **W. Ai**, J. Dowling, M. Craig. Delineating the Roles of Hydrogen-Based Flexibility Pathways, 2026.
 
 **Publication** 
 - J. Hu, L. Zheng, **W. Ai**, et al. [An adaptive power system transient stability assessment method based on shared feature extraction](https://doi.org/10.1016/j.isci.2025.112172), in *iScience*, 2025. 
