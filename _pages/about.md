@@ -53,7 +53,8 @@ I obtained my Bachelor's degree in Energy and Power Engineering from Tsinghua Un
 - T. Zhao, **W. Ai**, H. Ma, et al. [Integral identification of fluid specific heat capacity and heat transfer coefficient distribution in heat exchangers based on multiple-case joint analysis](https://doi.org/10.1016/j.ijheatmasstransfer.2021.122394), in *International Journal of Heat and Mass Transfer*, 2022.
 
 **Conference** 
-- **W. Ai**, J. Dowling, M. Craig. "Sector-coupling and infrastructure shape the long-term flexibility landscape in net-zero America", in 2025 INFORMS Annual Meeting, 2025.
+- **W. Ai**, J. Dowling, M. Craig. "Delineating the Roles of Hydrogen-Based Flexibility Pathways", MES Workshop, 2026.
+- **W. Ai**, J. Dowling, M. Craig. "Sector-coupling and infrastructure shape the long-term flexibility landscape in net-zero America", INFORMS Annual Meeting, 2025.
 
 <!--
 # 🔎 Peer Review
