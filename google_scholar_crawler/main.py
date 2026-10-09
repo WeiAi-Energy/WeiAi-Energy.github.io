@@ -15,25 +15,40 @@ TIMEOUT = 70  # seconds, ScraperAPI recommends >= 60
 
 
 def fetch_profile() -> str:
-    """Fetch the Scholar profile page through the ScraperAPI HTTP endpoint.
-
-    Fails fast with a clear message instead of retrying for many minutes.
-    """
     last_err = "unknown"
+
     for attempt in range(1, MAX_TRIES + 1):
         try:
             r = requests.get(
                 "https://api.scraperapi.com/",
-                params={"api_key": API_KEY, "url": PROFILE_URL},
+                params={
+                    "api_key": API_KEY,
+                    "url": PROFILE_URL,
+                },
                 timeout=TIMEOUT,
             )
-            if r.status_code == 200 and "gsc_rsb_st" in r.text:
-                return r.text
-            last_err = f"HTTP {r.status_code}, profile stats table not found"
+
+            print(f"HTTP Status: {r.status_code}", flush=True)
+            print(f"Response: {r.text[:500]}", flush=True)
+
+            if r.status_code == 200:
+                if "gsc_rsb_st" in r.text:
+                    return r.text
+                last_err = "HTTP 200, but Scholar stats table not found"
+            else:
+                last_err = f"HTTP {r.status_code}"
+
         except requests.RequestException as e:
-            last_err = type(e).__name__
-        print(f"attempt {attempt}/{MAX_TRIES} failed: {last_err}", flush=True)
-        time.sleep(5 * attempt)
+            last_err = f"{type(e).__name__}: {e}"
+
+        print(
+            f"attempt {attempt}/{MAX_TRIES} failed: {last_err}",
+            flush=True,
+        )
+
+        if attempt < MAX_TRIES:
+            time.sleep(5 * attempt)
+
     sys.exit(f"Cannot fetch Google Scholar profile: {last_err}")
 
 
