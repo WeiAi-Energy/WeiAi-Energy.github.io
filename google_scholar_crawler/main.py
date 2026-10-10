@@ -5,99 +5,79 @@ import time
 from datetime import datetime
 
 import requests
-from bs4 import BeautifulSoup
 
-API_KEY = os.environ["SCRAPERAPI_KEY"]
+API_KEY = os.environ["SERPAPI_KEY"]
 SCHOLAR_ID = os.environ["GOOGLE_SCHOLAR_ID"]
-PROFILE_URL = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
-MAX_TRIES = 4
-TIMEOUT = 70  # seconds, ScraperAPI recommends >= 60
+MAX_TRIES = 3
+TIMEOUT = 60
 
 
-# Google Scholar is a "protected domain" on ScraperAPI: plain requests return
-# HTTP 500 ("Protected domains may require adding premium=true OR
-# ultra_premium=true"). Escalate proxy tier on each retry.
-TIER_PARAMS = [
-    {"premium": "true"},
-    {"premium": "true"},
-    {"ultra_premium": "true"},
-    {"ultra_premium": "true"},
-]
-
-
-def fetch_profile() -> str:
+def fetch_author() -> dict:
     last_err = "unknown"
-
     for attempt in range(1, MAX_TRIES + 1):
-        extra = TIER_PARAMS[min(attempt, len(TIER_PARAMS)) - 1]
-        print(f"attempt {attempt}/{MAX_TRIES} with {extra}", flush=True)
         try:
             r = requests.get(
-                "https://api.scraperapi.com/",
+                "https://serpapi.com/search.json",
                 params={
+                    "engine": "google_scholar_author",
+                    "author_id": SCHOLAR_ID,
+                    "hl": "en",
                     "api_key": API_KEY,
-                    "url": PROFILE_URL,
-                    **extra,
                 },
                 timeout=TIMEOUT,
             )
-
             print(f"HTTP Status: {r.status_code}", flush=True)
-            print(f"Response: {r.text[:300]}", flush=True)
-
-            if r.status_code == 200:
-                if "gsc_rsb_st" in r.text:
-                    return r.text
-                last_err = "HTTP 200, but Scholar stats table not found"
-            else:
-                last_err = f"HTTP {r.status_code}"
-
-        except requests.RequestException as e:
+            data = r.json()
+            if r.status_code == 200 and "cited_by" in data:
+                return data
+            last_err = data.get("error", f"HTTP {r.status_code}")
+        except (requests.RequestException, ValueError) as e:
             last_err = f"{type(e).__name__}: {e}"
 
-        print(
-            f"attempt {attempt}/{MAX_TRIES} failed: {last_err}",
-            flush=True,
-        )
-
+        print(f"attempt {attempt}/{MAX_TRIES} failed: {last_err}", flush=True)
         if attempt < MAX_TRIES:
-            time.sleep(5 * attempt)
+            time.sleep(10 * attempt)
 
-    sys.exit(f"Cannot fetch Google Scholar profile: {last_err}")
-
-
-def to_int(text: str) -> int:
-    return int(text.replace(",", "").strip() or 0)
+    sys.exit(f"Cannot fetch Google Scholar profile via SerpApi: {last_err}")
 
 
-html = fetch_profile()
-soup = BeautifulSoup(html, "html.parser")
+def to_int(v) -> int:
+    return int(str(v).replace(",", "").strip() or 0)
 
-cells = [to_int(td.text) for td in soup.find_all("td", class_="gsc_rsb_std")]
-if len(cells) < 6:
-    sys.exit(f"Unexpected profile layout: found {len(cells)} index cells")
 
-name_tag = soup.find(id="gsc_prf_in")
+def split_row(row: dict):
+    """Each table row is {"citations": {"all": N, "since_YYYY": M}}."""
+    values = next(iter(row.values()))
+    all_v = to_int(values.get("all", 0))
+    recent = [v for k, v in values.items() if k != "all"]
+    return all_v, to_int(recent[0]) if recent else 0
+
+
+data = fetch_author()
+table = data["cited_by"].get("table", [])
+if len(table) < 3:
+    sys.exit(f"Unexpected SerpApi response: cited_by.table has {len(table)} rows")
+
+(citedby, citedby5y), (hindex, hindex5y), (i10, i10_5y) = (
+    split_row(row) for row in table[:3]
+)
 
 author: dict = {
     "scholar_id": SCHOLAR_ID,
-    "name": name_tag.text if name_tag else "",
-    "citedby": cells[0],
-    "citedby5y": cells[1],
-    "hindex": cells[2],
-    "hindex5y": cells[3],
-    "i10index": cells[4],
-    "i10index5y": cells[5],
+    "name": data.get("author", {}).get("name", ""),
+    "citedby": citedby,
+    "citedby5y": citedby5y,
+    "hindex": hindex,
+    "hindex5y": hindex5y,
+    "i10index": i10,
+    "i10index5y": i10_5y,
+    "cites_per_year": {
+        int(g["year"]): to_int(g.get("citations", 0))
+        for g in data["cited_by"].get("graph", [])
+    },
+    "updated": str(datetime.now()),
 }
-
-try:
-    years = [int(y.text) for y in soup.find_all(class_="gsc_g_t")]
-    cites = [to_int(c.text) for c in soup.find_all(class_="gsc_g_al")]
-    author["cites_per_year"] = dict(zip(years, cites))
-except ValueError:
-    author["cites_per_year"] = {}
-
-author["updated"] = str(datetime.now())
+print(f"citations={citedby} h-index={hindex} i10={i10}", flush=True)
 
 os.makedirs("results", exist_ok=True)
 with open("results/gs_data.json", "w") as f:
